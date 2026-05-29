@@ -1,6 +1,6 @@
 # Hi, I'm Shi Yimeng (Tim) 👋
 
-**Senior Software Engineer at Meiya Pico** · AI-Augmented Full-Stack Developer · Context Engineering Practitioner
+**Senior Software Engineer at a data security company** · AI-Augmented Full-Stack Developer · Context Engineering Practitioner
 
 I build AI applications across vertical industries — public security, healthcare, education.
 Daily tools: **Claude** + **Cursor**. I believe the next wave of value in AI lies in cross-industry data governance and AI application — not in foundation model research.
@@ -25,7 +25,7 @@ Daily tools: **Claude** + **Cursor**. I believe the next wave of value in AI lie
 
 ## 💼 Background
 
-- **4 years** at Meiya Pico Information Co., Ltd. (Shenzhen Stock Exchange listed; technology partner of the PRC Ministry of Public Security)
+- **4 years** in the data security industry
 - Day-job focus: **data security platforms** · **big data infrastructure** · **Zero Trust architecture products**
 - Independent practice: building AI agents and full-stack applications that solve real-world problems
 
