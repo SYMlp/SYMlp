@@ -2,24 +2,21 @@
 
 **Senior Software Engineer at a data security company** · AI-Augmented Full-Stack Developer · Context Engineering Practitioner
 
-I build AI applications across vertical industries — public security, healthcare, education.
-Daily tools: **Claude** + **Cursor**. I believe the next wave of value in AI lies in cross-industry data governance and AI application — not in foundation model research.
+By day I build data security products. After hours, I distill my own AI-collaboration patterns into reusable assets and small personal tools — built for my own practice first, occasionally graduating to something shareable.
+
+Daily tools: **Claude** + **Cursor**.
 
 ---
 
 ## 🚀 Featured Projects
 
-> All my active AI projects live under the [**@LSRabbit6**](https://github.com/LSRabbit6) organization.
+> Active projects live under the [**@LSRabbit6**](https://github.com/LSRabbit6) organization.
 
-- 🧠 **[cursor-genesis](https://github.com/LSRabbit6/cursor-genesis)** — A Generative Agentic Engineering Platform: meta-rules, ODD, and reusable AI cognitive assets for Cursor.
+- 🧠 **[cursor-genesis](https://github.com/LSRabbit6/cursor-genesis)** — A reusable AI cognitive asset platform for Cursor: meta-rules and packs distilled from real enterprise project delivery.
 
-- 🩺 **[pathology-ops-analyzer](https://github.com/LSRabbit6/pathology-ops-analyzer)** — QuPath-based automation pipeline for digital pathology slide analysis (built in collaboration with the pathology department at Peking University People's Hospital).
+- 🤖 **[a2a-market-news](https://github.com/LSRabbit6/a2a-market-news)** — Agent-to-Agent market and community platform built on SecondMe (hackathon project, deployed at [lsrabbit.space](https://lsrabbit.space)).
 
-- 🤖 **[a2a-market-news](https://github.com/LSRabbit6/a2a-market-news)** — Agent-to-Agent market information platform built on SecondMe (hackathon project).
-
-- 🛠️ **[personal_multi_agent_system](https://github.com/LSRabbit6/personal_multi_agent_system)** — A personal multi-agent system exploring AI agent orchestration patterns for daily task automation.
-
-- 🎯 **[focus-companion](https://github.com/LSRabbit6/focus-companion)** — Screen recording + AI vision-based focus analysis companion tool.
+- 🎯 **[focus-companion](https://github.com/LSRabbit6/focus-companion)** — A personal multi-modal AI focus assistant: camera → LLM → state machine → TTS. A small tool I built to fix my own attention drift.
 
 ---
 
@@ -27,7 +24,7 @@ Daily tools: **Claude** + **Cursor**. I believe the next wave of value in AI lie
 
 - **4 years** in the data security industry
 - Day-job focus: **data security platforms** · **big data infrastructure** · **Zero Trust architecture products**
-- Independent practice: building AI agents and full-stack applications that solve real-world problems
+- After-hours: building **personal AI tooling** and distilling **Context Engineering** patterns — for myself first, sharing what generalizes
 
 ---
 
