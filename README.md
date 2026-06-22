@@ -1,38 +1,41 @@
 # Hi, I'm Shi Yimeng (Tim) 👋
 
-**Senior Software Engineer at a data security company** · AI-Augmented Full-Stack Developer · Context Engineering Practitioner
+**AI-Native Full-Stack Engineer** — I build software *with* agents as the default, not as an add-on.
 
-By day I build data security products. After hours, I distill my own AI-collaboration patterns into reusable assets and small personal tools — built for my own practice first, occasionally graduating to something shareable.
+By day I ship enterprise systems (currently data security / 数据治理). My primary way of
+working is AI agents — Claude Code, LangGraph, self-built skill/rule systems — not a sidecar.
+Most of what's here is me distilling that practice into reusable assets and real tools.
 
-Daily tools: **Claude** + **Cursor**.
+## 🧭 How I actually got here
 
----
+1. **Real enterprise delivery** — production systems on a low-code metadata platform and a
+   SOC (security operations) system. The SOC one: rebuilt solo + AI in ~2 weeks (49 modules);
+   then a *non-engineer* teammate drove my AI workflow to fix 100+ bugs and pass acceptance.
+   *(Production, under NDA — happy to walk through it, can't open-source it.)*
+2. **Distilling the method** — [cursor-genesis](https://github.com/LSRabbit6/cursor-genesis):
+   crystallized those AI working patterns into reusable meta-rules. *(Early, Cursor-era; I've
+   since carried this thinking onto Claude Code.)*
+3. **Frontier exploration** — [incident-dispatch-agent](https://github.com/LSRabbit6/incident-dispatch-agent):
+   a hands-on build to dig into *governed* enterprise agents — LangGraph + HITL + execution
+   guardrails + DeepEval CI gate + OpenTelemetry. **Honest status: a demo, not yet in
+   production** — but the engineering (eval, guardrails, observability) is real and runs green.
 
-## 🚀 Featured Projects
+> The asymmetry I find interesting: the work I have the most *proof* on (SOC) I can't show;
+> the work I can fully *show* (the agent) is a demo. So — here's the demo with its rough edges
+> labeled, and I'm glad to talk through the rest.
 
-> Active projects live under the [**@LSRabbit6**](https://github.com/LSRabbit6) organization.
+## 🚀 Featured
+- 🤖 **[incident-dispatch-agent](https://github.com/LSRabbit6/incident-dispatch-agent)** — governed enterprise agent: LangGraph + 4-layer execution cage + DeepEval CI gate + OTel.
+- 🧠 **[cursor-genesis](https://github.com/LSRabbit6/cursor-genesis)** — reusable AI cognitive assets / meta-rules from real delivery. *(early, Cursor-era)*
+- 🎯 **[focus-companion](https://github.com/LSRabbit6/focus-companion)** — camera → LLM → state machine → TTS focus assistant.
 
-- 🧠 **[cursor-genesis](https://github.com/LSRabbit6/cursor-genesis)** — A reusable AI cognitive asset platform for Cursor: meta-rules and packs distilled from real enterprise project delivery.
-
-- 🤖 **[a2a-market-news](https://github.com/LSRabbit6/a2a-market-news)** — Agent-to-Agent market and community platform built on SecondMe (hackathon project, deployed at [lsrabbit.space](https://lsrabbit.space)).
-
-- 🎯 **[focus-companion](https://github.com/LSRabbit6/focus-companion)** — A personal multi-modal AI focus assistant: camera → LLM → state machine → TTS. A small tool I built to fix my own attention drift.
-
----
+> Active work lives under [**@LSRabbit6**](https://github.com/LSRabbit6) (灵枢兔 / LSRabbit) — my workspace & personal IP.
 
 ## 💼 Background
-
-- **4 years** in the data security industry
-- Day-job focus: **data security platforms** · **big data infrastructure** · **Zero Trust architecture products**
-- After-hours: building **personal AI tooling** and distilling **Context Engineering** patterns — for myself first, sharing what generalizes
-
----
+- ~4 years building enterprise software; currently data security / 数据治理 (bidding → dev → on-site delivery → acceptance)
+- Primary workflow: agents as default — Claude Code, LangGraph, self-built skill/rule systems
+- I care about *governed* AI: eval, guardrails, HITL, observability — the line between a demo and production
 
 ## 📫 Contact
-
 - Email: shiyimeng.cs@hotmail.com
-- LSRabbit (灵枢兔) — Personal Brand: 🔗 [lsrabbit.space](https://lsrabbit.space) *(coming soon)*
-
----
-
-<sub>Built with Claude, Cursor, and Context Engineering.</sub>
+- LSRabbit (灵枢兔) · 🔗 lsrabbit.space
