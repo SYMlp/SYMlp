@@ -22,12 +22,13 @@ Most of what's here is me distilling that practice into reusable assets and real
 
 > The asymmetry I find interesting: the work I have the most *proof* on (SOC) I can't show;
 > the work I can fully *show* (the agent) is a demo. So — here's the demo with its rough edges
-> labeled, and I'm glad to talk through the rest.
+> labeled, and I'm glad to talk through the rest. *(And the cognition system behind all of it? I turned that into [an illustrated story](https://book.lsrabbit.space).)*
 
 ## 🚀 Featured
 - 🤖 **[incident-dispatch-agent](https://github.com/LSRabbit6/incident-dispatch-agent)** — governed enterprise agent: LangGraph + 4-layer execution cage + DeepEval CI gate + OTel.
 - 🧠 **[cursor-genesis](https://github.com/LSRabbit6/cursor-genesis)** — reusable AI cognitive assets / meta-rules from real delivery. *(early, Cursor-era)*
 - 🎯 **[focus-companion](https://github.com/LSRabbit6/focus-companion)** — camera → LLM → state machine → TTS focus assistant.
+- 📖 **[The Lingshu Rabbit Chronicles](https://book.lsrabbit.space)** — an illustrated, bilingual origin-story of how I built my own knowledge / cognition system, told as a tale. *The system I can't open-source, turned into something you can read.*
 
 > Active work lives under [**@LSRabbit6**](https://github.com/LSRabbit6) (灵枢兔 / LSRabbit) — my workspace & personal IP.
 
